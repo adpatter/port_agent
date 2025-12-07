@@ -70,7 +70,7 @@ if (isMainThread) {
 #### Clone the Port Agent repo.
 
 ```bash
-git clone https://github.com/faranalytics/port_agent.git
+git clone https://github.com/adpatter/port_agent.git
 ```
 
 #### Change directory into the relevant example directory.

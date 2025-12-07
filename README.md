@@ -90,11 +90,11 @@ console.log(greeting); // Hello, happy world!
 
 ### _A simple example_ <sup><sup>\</Node.js\></sup></sup>
 
-Please see the [simple example](https://github.com/faranalytics/port_agent/tree/main/examples/simple) for a working implementation.
+Please see the [simple example](https://github.com/adpatter/port_agent/tree/main/examples/simple) for a working implementation.
 
 ### _A comprehensive example_ <sup><sup>\</TypeScript\></sup></sup>
 
-Please see the [comprehensive example](https://github.com/faranalytics/port_agent/tree/main/examples/comprehensive) for a working implementation.
+Please see the [comprehensive example](https://github.com/adpatter/port_agent/tree/main/examples/comprehensive) for a working implementation.
 
 ## API
 
@@ -156,6 +156,6 @@ Port Agent is strictly focused on efficient communication over `MessagePort`s. P
 
 ## Support
 
-If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/faranalytics/port_agent/issues) or start a [discussion](https://github.com/faranalytics/port_agent/discussions). You’re also welcome to reach out directly to one of the authors.
+If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/port_agent/issues) or start a [discussion](https://github.com/adpatter/port_agent/discussions). You’re also welcome to reach out directly to one of the authors.
 
 - [Adam Patterson](https://github.com/adamjpatterson)

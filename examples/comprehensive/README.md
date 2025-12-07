@@ -140,7 +140,7 @@ if (isMainThread) {
 #### Clone the repository.
 
 ```bash
-git clone https://github.com/faranalytics/port_agent.git
+git clone https://github.com/adpatter/port_agent.git
 ```
 
 #### Change directory into the relevant example directory.
