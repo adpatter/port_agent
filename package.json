@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faranalytics/port_agent.git"
+    "url": "git+https://github.com/adpatter/port_agent.git"
   },
   "author": "FAR",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faranalytics/port_agent/issues"
+    "url": "https://github.com/adpatter/port_agent/issues"
   },
-  "homepage": "https://github.com/faranalytics/port_agent#readme",
+  "homepage": "https://github.com/adpatter/port_agent#readme",
   "devDependencies": {
     "@eslint/js": "^9.6.0",
     "@types/eslint__js": "^8.42.3",
